@@ -1,0 +1,30 @@
+_repo: Onze-oude-dorpskerkenTachtig-schetsen-van-dorpskerken-in-Nederland_44814
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44814-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Kloot Meijburg, Herman van der
+    aliases:
+    - Van der Kloot Meijburg, Herman
+    - Kloot Meijburg, L. H. H. van der
+    - Meijburg, Herman van der Kloot
+    birthdate: 1875
+    deathdate: 1961
+    gutenberg_agent_id: '42930'
+    url: http://www.gutenberg.org/2009/agents/42930
+description: ''
+gutenberg_issued: '2014-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44814'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Church buildings -- Netherlands'
+title: 'Onze oude dorpskerken: Tachtig schetsen van dorpskerken in Nederland'
+url: http://www.gutenberg.org/ebooks/44814
